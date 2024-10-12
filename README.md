@@ -28,6 +28,7 @@ The architecture for this real-time dashboard is built around the following key 
    - **BigQuery**: For historical data storage and further analysis.
 4. **BigQuery**: Stores historical events for long-term analysis, accessible from the historic part of the dashboard.
 5. **Streamlit**: Displays both real-time and historical data in a web interface for business insights.
+> Sample data that is loaded in Cloud SQL for real-time event creation can be found [here](https://www.kaggle.com/datasets/king9283/ecommerce-realtime-analysis).
 
 ![ecommerce_analysis_diagram](https://github.com/user-attachments/assets/50523708-f43b-4805-8271-25ca7342782f)
 

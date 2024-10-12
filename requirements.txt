@@ -1,0 +1,8 @@
+streamlit==1.21.0
+pandas==2.0.3
+plotly==5.11.0
+google-cloud-bigquery==3.10.1
+google-cloud-pubsub==2.14.0
+python-dotenv==1.0.0
+apache-beam[gcp]==2.46.0
+psycopg2==2.9.6
